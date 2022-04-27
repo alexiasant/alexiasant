@@ -7,8 +7,9 @@
 </div>
   <div  align="center">
     <div style="display: inline_block"><br>
-  <img align="center" alt="Al-GitHub" height="30" width="85" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
- <img align="center" alt="Al-Java" height="30" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Al-GitHub" height="45" width="85" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <img align="center" alt="Al-Java" height="45" width="75" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="Al-Man" height="45" width="95" src="https://cdn.pixabay.com/photo/2021/10/11/13/12/website-6700615_960_720.png">
 </div>
  
 ###
